@@ -1,0 +1,3 @@
+dans ce TP on devait creer une application afin de comptabiliser les jurons dit dans la salle , avec differents tarifs selon l'insulte , la somme servira a payer des petits pains pour tout le monde .
+il fallait pouvoir inserer des stagiaires via un fichier texte , avoir un camembert representant les montants et les personnes qui doivent de l'argent , et aussi un moyen de remettre a zero les dettes quand elles sont payées ( uniquement par un role_admin).
+tp fait en groupe de 4.
